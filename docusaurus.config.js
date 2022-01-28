@@ -13,8 +13,8 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ESCcrasci', // Usually your GitHub org/user name.
-  projectName: 'ESC', // Usually your repo name.
+  organizationName: 'ESCcrascirepository', // Usually your GitHub org/user name.
+  projectName: 'projects', // Usually your repo name.
 
   presets: [
     [
